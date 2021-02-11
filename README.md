@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**filipwtf/filipwtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# filipwtf
+</hr>
 
-Here are some ideas to get you started:
+😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filipwtf&count_private=true&show_icons=true&theme=onedark)
+
+You can find my old projects here
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filip-archives&repo=filip-archives)](https://github.com/filip-archives/filip-archives)
+
+</p>
