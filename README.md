@@ -8,7 +8,7 @@
 
 ## About
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filipwtf&count_private=true&show_icons=true&theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wfilip&count_private=true&show_icons=true&theme=onedark)
 
 You can find my old projects here
 
