@@ -1,6 +1,6 @@
 <p align="center">
 
-# filipwtf
+# Filip
 </hr>
 
 😄 Pronouns: he/him
